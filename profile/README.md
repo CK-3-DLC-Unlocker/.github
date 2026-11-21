@@ -9,7 +9,7 @@ Designed to keep things simple, CK3Unlocker automates DLC detection and configur
 ## Latest Release of Crusader Kings 3 DLC Unlocker
 
 - **Version:** `5.0.0.5`
-- **Download:** [Latest Release](#)
+- **Download:** [Latest Release](https://github.com/CK-3-DLC-Unlocker/.github/releases)
 
 Check the Releases page for the latest builds, updates and changelog.
 
